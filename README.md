@@ -1,6 +1,6 @@
 👋 **Hi there! ** 👋
 
-I'm Roman, a tech enthusiast currently on a journey to become a professional of systems administration and cloud engineering ️ at TAFE SA, and I also hold a Certificate 4 in IT Networking from the same institution.
+I'm Roman, a tech enthusiast currently on a journey to become a professional of systems administration and cloud engineering ️at TAFE SA, and I also hold a Certificate 4 in IT Networking from the same institution.
 
 ✨ My Interests:
 
