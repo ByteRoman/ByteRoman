@@ -15,6 +15,6 @@ I'm Roman, a tech enthusiast currently on a journey to become a professional of 
 
 If you're interested in collaborating on projects related to my interests, please don't hesitate to reach out!  I'm always open to learning new things and working with others.
 
-📫 GitHub: https://github.com/CochinaCoccyx
+📫 GitHub: https://github.com/ByteRoman
 
 Let's connect! ✨
