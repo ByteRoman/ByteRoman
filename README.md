@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Roman
 
-💻 Aspiring Systems Administrator & Cloud Engineer with a strong foundation in IT networking, system administration, and cloud technologies. I enjoy building practical projects, learning new tools, and sharing my progress here on GitHub.
+💻 IT enthusiast with a strong foundation in IT networking, systems administration, and cloud technologies. I enjoy building practical projects, learning new tools, and sharing my progress here on GitHub.
 
 ---
 
