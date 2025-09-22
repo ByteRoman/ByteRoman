@@ -58,6 +58,15 @@ A **Telegram bot** that transforms a channel into a lightweight imageboard.
 
 ---
 
+### ✏️ [LJ2TG](https://github.com/ByteRoman/LJ2TG)
+
+A set of Python scripts designed to scrape and migrate LiveJournal blog posts to a Telegram channel.
+
+* Scrapes post URLs, then scrapes post content. 
+* Posts the content to Telegram preserving images and formatting.
+
+---
+
 ## 📫 Connect
 
 * GitHub: [ByteRoman](https://github.com/ByteRoman)
